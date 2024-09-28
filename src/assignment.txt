@@ -1,0 +1,20 @@
+71,generate a secure password.,20
+137,reverse the order of characters in a string.,12
+152,check if a word or phrase is a palindrome.,30
+163,encrypt a message.,20
+207,generate a secure password.,26
+250,check if an email address is valid.,22
+270,reverse the order of characters in a string.,25
+370,reverse the order of characters in a string.,25
+392,encrypt a message.,21
+449,check if two words are anagrams.,21
+483,check if an email address is valid.,30
+575,find the maximum value in a list.,14
+614,capitalize the first letter of each word in a string.,22
+677,count the number of vowels in a string.,26
+760,convert temperature between different scales.,29
+839,check if two words are anagrams.,17
+884,check if a word or phrase is a palindrome.,30
+932,capitalize the first letter of each word in a string.,23
+970,reverse the order of characters in a string.,23
+1052,calculate the gpa from a list of grades.,28
